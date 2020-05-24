@@ -42,7 +42,7 @@ The LogisticRegression was the best performing model out the three we chose. Wit
 ### Improvements
 Improvements to the above results could be possible by applying e.g. the following approaches:
 
- - Include more features e.g. Location
- - Try more models, e.g. Deep Learning models
- - Use Grid Search for hyperparameter tuning
- - Try to find an additional data source which could be helpful for the considered task
+•	Creating more number of features
+•	Training on a larger dataset, by deploying on cloud (AWS, IBM cloud)
+•	Try more models, e.g. Deep Learning models
+•	Try to find an additional data source which could be helpful for the considered task
