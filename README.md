@@ -3,6 +3,7 @@
 ### Overview 
 
 Many music streaming provides (e.g. Spotify) collect huge amounts of data by collecting how users interact with their services (e.g. at which time a user is listen to a certain song etc.). These data contain valuable information to improve the services of the streaming providers. But the amount of generated data quickly exceeds the memory capacities of most personal computers. To still have the possibility to analyze this data, tools like Spark are necessary. Spark processes data in a distributed manner and as a result, Spark can also analyze data which does not fit into the memory of a single machine. Therefore, we use Spark in this Project to analyze user event log data of a music streaming service. 
+
 Link to [My Medium BlogPost](https://medium.com/@shaswat1anand/sparkify-churn-prediction-using-spark-b217d42188cf)
 
 ### Objective
